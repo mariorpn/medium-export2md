@@ -1,0 +1,5 @@
+# Medium exports contain personal data: never commit them
+medium-export*.zip
+medium-export*/
+__pycache__/
+*.pyc

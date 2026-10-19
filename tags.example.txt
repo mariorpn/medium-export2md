@@ -1,0 +1,5 @@
+# Medium's export has no tags. One line per post: "<medium-id>: tag1, tag2"
+# The id is the hex code at the end of the post URL, e.g.
+# https://medium.com/@you/my-first-post-e14af3701206  ->  e14af3701206
+e14af3701206: openshift, logging, loki
+50d17c83f46a: linux, podman, ollama
